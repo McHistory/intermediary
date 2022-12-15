@@ -1,0 +1,427 @@
+v1	official	intermediary
+CLASS	com/mojang/minecraft/MinecraftApplet	com/mojang/minecraft/MinecraftApplet
+FIELD	com/mojang/minecraft/MinecraftApplet	Lcom/mojang/minecraft/c;	a	field_58
+FIELD	com/mojang/minecraft/MinecraftApplet	Ljava/lang/Thread;	b	field_59
+FIELD	com/mojang/minecraft/MinecraftApplet	Ljava/awt/Canvas;	c	field_60
+METHOD	com/mojang/minecraft/MinecraftApplet	()V	a	method_1
+METHOD	com/mojang/minecraft/MinecraftApplet	()V	destroy	destroy
+METHOD	com/mojang/minecraft/MinecraftApplet	()V	init	init
+METHOD	com/mojang/minecraft/MinecraftApplet	()V	start	start
+METHOD	com/mojang/minecraft/MinecraftApplet	()V	stop	stop
+CLASS	com/mojang/minecraft/a	com/mojang/minecraft/a
+FIELD	com/mojang/minecraft/a	F	a	field_61
+FIELD	com/mojang/minecraft/a	J	b	field_62
+FIELD	com/mojang/minecraft/a	I	c	field_63
+FIELD	com/mojang/minecraft/a	F	d	field_64
+FIELD	com/mojang/minecraft/a	F	e	field_65
+FIELD	com/mojang/minecraft/a	F	f	field_66
+CLASS	com/mojang/minecraft/a/a	com/mojang/minecraft/a/a
+FIELD	com/mojang/minecraft/a/a	Lcom/mojang/minecraft/c;	a	field_67
+METHOD	com/mojang/minecraft/a/a	(Lcom/mojang/minecraft/a/f;Ljava/io/InputStream;)Z	a	method_2
+METHOD	com/mojang/minecraft/a/a	(Lcom/mojang/minecraft/a/f;Ljava/io/OutputStream;)V	a	method_3
+METHOD	com/mojang/minecraft/a/a	(Lcom/mojang/minecraft/a/f;Ljava/lang/String;Ljava/lang/String;I)Z	a	method_4
+METHOD	com/mojang/minecraft/a/a	(Lcom/mojang/minecraft/a/f;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)Z	a	method_5
+METHOD	com/mojang/minecraft/a/a	(Lcom/mojang/minecraft/a/f;Ljava/io/InputStream;)Z	b	method_6
+CLASS	com/mojang/minecraft/a/a/a	com/mojang/minecraft/a/a/a
+FIELD	com/mojang/minecraft/a/a/a	[Lcom/mojang/minecraft/a/a/a;	a	field_68
+FIELD	com/mojang/minecraft/a/a/a	[Z	b	field_69
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	c	field_70
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	d	field_71
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	e	field_72
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	f	field_73
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	g	field_74
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	h	field_75
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	i	field_76
+FIELD	com/mojang/minecraft/a/a/a	Lcom/mojang/minecraft/a/a/a;	j	field_77
+FIELD	com/mojang/minecraft/a/a/a	I	k	field_78
+FIELD	com/mojang/minecraft/a/a/a	I	l	field_79
+FIELD	com/mojang/minecraft/a/a/a	F	m	field_80
+FIELD	com/mojang/minecraft/a/a/a	F	n	field_81
+FIELD	com/mojang/minecraft/a/a/a	F	o	field_82
+FIELD	com/mojang/minecraft/a/a/a	F	p	field_83
+FIELD	com/mojang/minecraft/a/a/a	F	q	field_84
+FIELD	com/mojang/minecraft/a/a/a	F	r	field_85
+METHOD	com/mojang/minecraft/a/a/a	()Z	a	method_7
+METHOD	com/mojang/minecraft/a/a/a	(FFFFFF)V	a	method_8
+METHOD	com/mojang/minecraft/a/a/a	(I)I	a	method_9
+METHOD	com/mojang/minecraft/a/a/a	(III)Lcom/mojang/minecraft/f/a;	a	method_10
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/a/f;IIII)V	a	method_11
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/a/f;IIIII)Z	a	method_12
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/a/f;IIILcom/mojang/minecraft/d/a;)V	a	method_13
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/a/f;IIILjava/util/Random;)V	a	method_14
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/b/b;IIII)V	a	method_15
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/b/b;Lcom/mojang/minecraft/a/f;IIII)Z	a	method_16
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/e;Lcom/mojang/minecraft/b/b;IIII)V	a	method_17
+METHOD	com/mojang/minecraft/a/a/a	(Z)V	a	method_18
+METHOD	com/mojang/minecraft/a/a/a	()Z	b	method_19
+METHOD	com/mojang/minecraft/a/a/a	(III)Lcom/mojang/minecraft/f/a;	b	method_20
+METHOD	com/mojang/minecraft/a/a/a	(Lcom/mojang/minecraft/b/b;IIII)V	b	method_21
+METHOD	com/mojang/minecraft/a/a/a	()Z	c	method_22
+METHOD	com/mojang/minecraft/a/a/a	()I	d	method_23
+CLASS	com/mojang/minecraft/a/a/b	com/mojang/minecraft/a/a/b
+CLASS	com/mojang/minecraft/a/a/c	com/mojang/minecraft/a/a/c
+CLASS	com/mojang/minecraft/a/a/d	com/mojang/minecraft/a/a/d
+CLASS	com/mojang/minecraft/a/a/e	com/mojang/minecraft/a/a/e
+FIELD	com/mojang/minecraft/a/a/e	I	m	field_86
+FIELD	com/mojang/minecraft/a/a/e	I	n	field_87
+FIELD	com/mojang/minecraft/a/a/e	I	o	field_88
+FIELD	com/mojang/minecraft/a/a/e	I	p	field_89
+METHOD	com/mojang/minecraft/a/a/e	(Lcom/mojang/minecraft/a/f;IIII)Z	b	method_24
+METHOD	com/mojang/minecraft/a/a/e	(Lcom/mojang/minecraft/a/f;IIII)Z	c	method_25
+CLASS	com/mojang/minecraft/a/a/f	com/mojang/minecraft/a/a/f
+CLASS	com/mojang/minecraft/a/b	com/mojang/minecraft/a/b
+FIELD	com/mojang/minecraft/a/b	Lcom/mojang/minecraft/e;	a	field_90
+METHOD	com/mojang/minecraft/a/b	(Ljava/lang/Object;Ljava/lang/Object;)I	compare	compare
+CLASS	com/mojang/minecraft/a/b/a	com/mojang/minecraft/a/b/a
+FIELD	com/mojang/minecraft/a/b/a	Lcom/mojang/minecraft/c;	a	field_91
+FIELD	com/mojang/minecraft/a/b/a	I	b	field_92
+FIELD	com/mojang/minecraft/a/b/a	I	c	field_93
+FIELD	com/mojang/minecraft/a/b/a	I	d	field_94
+FIELD	com/mojang/minecraft/a/b/a	Ljava/util/Random;	e	field_95
+FIELD	com/mojang/minecraft/a/b/a	[B	f	field_96
+FIELD	com/mojang/minecraft/a/b/a	[I	g	field_97
+METHOD	com/mojang/minecraft/a/b/a	()V	a	method_26
+METHOD	com/mojang/minecraft/a/b/a	(I)V	a	method_27
+METHOD	com/mojang/minecraft/a/b/a	(IIIII)J	a	method_28
+METHOD	com/mojang/minecraft/a/b/a	(Lcom/mojang/minecraft/a/f;Ljava/lang/String;III)Z	a	method_29
+CLASS	com/mojang/minecraft/a/b/a/a	com/mojang/minecraft/a/b/a/a
+FIELD	com/mojang/minecraft/a/b/a/a	Lcom/mojang/minecraft/a/b/a/c;	a	field_98
+FIELD	com/mojang/minecraft/a/b/a/a	Lcom/mojang/minecraft/a/b/a/c;	b	field_99
+CLASS	com/mojang/minecraft/a/b/a/b	com/mojang/minecraft/a/b/a/b
+FIELD	com/mojang/minecraft/a/b/a/b	[Lcom/mojang/minecraft/a/b/a/d;	a	field_100
+FIELD	com/mojang/minecraft/a/b/a/b	I	b	field_101
+CLASS	com/mojang/minecraft/a/b/a/c	com/mojang/minecraft/a/b/a/c
+METHOD	com/mojang/minecraft/a/b/a/c	(DD)D	a	method_30
+CLASS	com/mojang/minecraft/a/b/a/d	com/mojang/minecraft/a/b/a/d
+FIELD	com/mojang/minecraft/a/b/a/d	[I	a	field_102
+METHOD	com/mojang/minecraft/a/b/a/d	(D)D	a	method_31
+METHOD	com/mojang/minecraft/a/b/a/d	(DDD)D	a	method_32
+METHOD	com/mojang/minecraft/a/b/a/d	(IDDD)D	a	method_33
+CLASS	com/mojang/minecraft/a/c	com/mojang/minecraft/a/c
+FIELD	com/mojang/minecraft/a/c	Lcom/mojang/minecraft/f/a;	a	field_103
+FIELD	com/mojang/minecraft/a/c	Z	b	field_104
+FIELD	com/mojang/minecraft/a/c	Z	c	field_105
+FIELD	com/mojang/minecraft/a/c	I	d	field_106
+FIELD	com/mojang/minecraft/a/c	Lcom/mojang/minecraft/a/f;	e	field_107
+FIELD	com/mojang/minecraft/a/c	I	f	field_27
+FIELD	com/mojang/minecraft/a/c	I	g	field_30
+FIELD	com/mojang/minecraft/a/c	I	h	field_33
+FIELD	com/mojang/minecraft/a/c	I	i	field_28
+FIELD	com/mojang/minecraft/a/c	I	j	field_31
+FIELD	com/mojang/minecraft/a/c	I	k	field_34
+FIELD	com/mojang/minecraft/a/c	F	l	field_29
+FIELD	com/mojang/minecraft/a/c	F	m	field_32
+FIELD	com/mojang/minecraft/a/c	F	n	field_35
+FIELD	com/mojang/minecraft/a/c	Z	o	field_108
+FIELD	com/mojang/minecraft/a/c	I	p	field_109
+FIELD	com/mojang/minecraft/a/c	Lcom/mojang/minecraft/b/b;	q	field_26
+FIELD	com/mojang/minecraft/a/c	I	r	field_110
+METHOD	com/mojang/minecraft/a/c	()V	a	method_34
+METHOD	com/mojang/minecraft/a/c	(I)I	a	method_35
+METHOD	com/mojang/minecraft/a/c	(Lcom/mojang/minecraft/e;)F	a	method_36
+METHOD	com/mojang/minecraft/a/c	()V	b	method_37
+METHOD	com/mojang/minecraft/a/c	(I)V	b	method_38
+METHOD	com/mojang/minecraft/a/c	()Z	c	method_39
+METHOD	com/mojang/minecraft/a/c	()V	d	method_40
+METHOD	com/mojang/minecraft/a/c	()V	e	method_41
+CLASS	com/mojang/minecraft/a/d	com/mojang/minecraft/a/d
+FIELD	com/mojang/minecraft/a/d	Lcom/mojang/minecraft/e;	a	field_111
+METHOD	com/mojang/minecraft/a/d	(Ljava/lang/Object;Ljava/lang/Object;)I	compare	compare
+CLASS	com/mojang/minecraft/a/e	com/mojang/minecraft/a/e
+FIELD	com/mojang/minecraft/a/e	Lcom/mojang/minecraft/a/f;	a	field_112
+FIELD	com/mojang/minecraft/a/e	[Lcom/mojang/minecraft/a/c;	b	field_113
+FIELD	com/mojang/minecraft/a/e	I	c	field_114
+FIELD	com/mojang/minecraft/a/e	I	d	field_115
+FIELD	com/mojang/minecraft/a/e	[Lcom/mojang/minecraft/a/c;	e	field_116
+FIELD	com/mojang/minecraft/a/e	I	f	field_117
+FIELD	com/mojang/minecraft/a/e	I	g	field_118
+FIELD	com/mojang/minecraft/a/e	I	h	field_119
+FIELD	com/mojang/minecraft/a/e	Lcom/mojang/minecraft/b/a;	i	field_120
+FIELD	com/mojang/minecraft/a/e	Ljava/nio/IntBuffer;	j	field_121
+FIELD	com/mojang/minecraft/a/e	F	k	field_122
+FIELD	com/mojang/minecraft/a/e	F	l	field_123
+FIELD	com/mojang/minecraft/a/e	F	m	field_124
+METHOD	com/mojang/minecraft/a/e	()V	a	method_42
+METHOD	com/mojang/minecraft/a/e	(IIIIII)V	a	method_43
+METHOD	com/mojang/minecraft/a/e	(Lcom/mojang/minecraft/e;I)V	a	method_44
+METHOD	com/mojang/minecraft/a/e	(Lcom/mojang/minecraft/e;Lcom/mojang/minecraft/f;II)V	a	method_45
+METHOD	com/mojang/minecraft/a/e	(Lcom/mojang/minecraft/f;I)V	a	method_46
+CLASS	com/mojang/minecraft/a/f	com/mojang/minecraft/a/f
+FIELD	com/mojang/minecraft/a/f	I	a	field_125
+FIELD	com/mojang/minecraft/a/f	I	b	field_126
+FIELD	com/mojang/minecraft/a/f	I	c	field_127
+FIELD	com/mojang/minecraft/a/f	[B	d	field_128
+FIELD	com/mojang/minecraft/a/f	Ljava/util/ArrayList;	e	field_129
+FIELD	com/mojang/minecraft/a/f	Ljava/util/Random;	f	field_130
+FIELD	com/mojang/minecraft/a/f	I	g	field_131
+FIELD	com/mojang/minecraft/a/f	Ljava/lang/String;	h	field_132
+FIELD	com/mojang/minecraft/a/f	Ljava/lang/String;	i	field_133
+FIELD	com/mojang/minecraft/a/f	J	j	field_134
+FIELD	com/mojang/minecraft/a/f	I	k	field_135
+FIELD	com/mojang/minecraft/a/f	[I	l	field_136
+METHOD	com/mojang/minecraft/a/f	(III)Z	a	method_47
+METHOD	com/mojang/minecraft/a/f	(IIII)Z	a	method_48
+METHOD	com/mojang/minecraft/a/f	(III[B)V	a	method_49
+METHOD	com/mojang/minecraft/a/f	(Lcom/mojang/minecraft/f/a;)Ljava/util/ArrayList;	a	method_50
+METHOD	com/mojang/minecraft/a/f	(Lcom/mojang/minecraft/f/a;I)Z	a	method_51
+METHOD	com/mojang/minecraft/a/f	(III)I	b	method_52
+METHOD	com/mojang/minecraft/a/f	(IIII)Z	b	method_53
+METHOD	com/mojang/minecraft/a/f	(IIII)V	c	method_54
+METHOD	com/mojang/minecraft/a/f	(IIII)V	d	method_55
+CLASS	com/mojang/minecraft/b	com/mojang/minecraft/b
+FIELD	com/mojang/minecraft/b	Lcom/mojang/minecraft/MinecraftApplet;	a	field_137
+METHOD	com/mojang/minecraft/b	()V	addNotify	addNotify
+METHOD	com/mojang/minecraft/b	()V	removeNotify	removeNotify
+CLASS	com/mojang/minecraft/b/a	com/mojang/minecraft/b/a
+FIELD	com/mojang/minecraft/b/a	Ljava/util/HashMap;	a	field_138
+METHOD	com/mojang/minecraft/b/a	(Ljava/lang/String;I)I	a	method_56
+CLASS	com/mojang/minecraft/b/b	com/mojang/minecraft/b/b
+FIELD	com/mojang/minecraft/b/b	Lcom/mojang/minecraft/b/b;	a	field_139
+FIELD	com/mojang/minecraft/b/b	Ljava/nio/FloatBuffer;	b	field_140
+FIELD	com/mojang/minecraft/b/b	[F	c	field_141
+FIELD	com/mojang/minecraft/b/b	I	d	field_142
+FIELD	com/mojang/minecraft/b/b	F	e	field_56
+FIELD	com/mojang/minecraft/b/b	F	f	field_57
+FIELD	com/mojang/minecraft/b/b	F	g	field_55
+FIELD	com/mojang/minecraft/b/b	F	h	field_53
+FIELD	com/mojang/minecraft/b/b	F	i	field_52
+FIELD	com/mojang/minecraft/b/b	Z	j	field_143
+FIELD	com/mojang/minecraft/b/b	Z	k	field_144
+FIELD	com/mojang/minecraft/b/b	I	l	field_145
+FIELD	com/mojang/minecraft/b/b	I	m	field_54
+FIELD	com/mojang/minecraft/b/b	Z	n	field_146
+METHOD	com/mojang/minecraft/b/b	()V	a	method_57
+METHOD	com/mojang/minecraft/b/b	(BBB)V	a	method_58
+METHOD	com/mojang/minecraft/b/b	(FFF)V	a	method_59
+METHOD	com/mojang/minecraft/b/b	(FFFFF)V	a	method_60
+METHOD	com/mojang/minecraft/b/b	(I)V	a	method_61
+METHOD	com/mojang/minecraft/b/b	(III)V	a	method_62
+METHOD	com/mojang/minecraft/b/b	()V	b	method_63
+METHOD	com/mojang/minecraft/b/b	()V	c	method_64
+METHOD	com/mojang/minecraft/b/b	()V	d	method_65
+CLASS	com/mojang/minecraft/b/c	com/mojang/minecraft/b/c
+FIELD	com/mojang/minecraft/b/c	[[F	a	field_147
+FIELD	com/mojang/minecraft/b/c	Lcom/mojang/minecraft/b/c;	b	field_148
+FIELD	com/mojang/minecraft/b/c	Ljava/nio/FloatBuffer;	c	field_149
+FIELD	com/mojang/minecraft/b/c	Ljava/nio/FloatBuffer;	d	field_150
+FIELD	com/mojang/minecraft/b/c	Ljava/nio/FloatBuffer;	e	field_151
+FIELD	com/mojang/minecraft/b/c	[F	f	field_152
+FIELD	com/mojang/minecraft/b/c	[F	g	field_153
+FIELD	com/mojang/minecraft/b/c	[F	h	field_154
+METHOD	com/mojang/minecraft/b/c	()Lcom/mojang/minecraft/b/c;	a	method_66
+METHOD	com/mojang/minecraft/b/c	(Lcom/mojang/minecraft/f/a;)Z	a	method_67
+METHOD	com/mojang/minecraft/b/c	([[FI)V	a	method_68
+CLASS	com/mojang/minecraft/c	com/mojang/minecraft/c
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/c/d;	A	field_155
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/a/b/a;	B	field_156
+FIELD	com/mojang/minecraft/c	Ljava/lang/String;	C	field_157
+FIELD	com/mojang/minecraft/c	Z	D	field_158
+FIELD	com/mojang/minecraft/c	Ljava/nio/IntBuffer;	E	field_159
+FIELD	com/mojang/minecraft/c	Ljava/nio/IntBuffer;	F	field_160
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/f;	G	field_161
+FIELD	com/mojang/minecraft/c	Ljava/nio/FloatBuffer;	H	field_15
+FIELD	com/mojang/minecraft/c	Ljava/lang/String;	I	field_162
+FIELD	com/mojang/minecraft/c	Ljava/lang/String;	J	field_163
+FIELD	com/mojang/minecraft/c	I	a	field_164
+FIELD	com/mojang/minecraft/c	I	b	field_165
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/a/f;	c	field_166
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/d;	d	field_167
+FIELD	com/mojang/minecraft/c	Ljava/lang/String;	e	field_168
+FIELD	com/mojang/minecraft/c	Z	f	field_169
+FIELD	com/mojang/minecraft/c	Z	g	field_170
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/c/g;	h	field_171
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/a/a;	i	field_172
+FIELD	com/mojang/minecraft/c	Ljava/lang/String;	j	field_173
+FIELD	com/mojang/minecraft/c	I	k	field_174
+FIELD	com/mojang/minecraft/c	Z	l	field_175
+FIELD	com/mojang/minecraft/c	Z	m	field_176
+FIELD	com/mojang/minecraft/c	Ljava/nio/FloatBuffer;	n	field_177
+FIELD	com/mojang/minecraft/c	Ljava/nio/FloatBuffer;	o	field_178
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/a;	p	field_179
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/a/e;	q	field_180
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/e;	r	field_181
+FIELD	com/mojang/minecraft/c	I	s	field_182
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/d/a;	t	field_183
+FIELD	com/mojang/minecraft/c	Ljava/util/ArrayList;	u	field_184
+FIELD	com/mojang/minecraft/c	Ljava/awt/Canvas;	v	field_185
+FIELD	com/mojang/minecraft/c	Lorg/lwjgl/input/Cursor;	w	field_186
+FIELD	com/mojang/minecraft/c	I	x	field_187
+FIELD	com/mojang/minecraft/c	Lcom/mojang/minecraft/b/a;	y	field_188
+FIELD	com/mojang/minecraft/c	I	z	field_189
+METHOD	com/mojang/minecraft/c	()V	a	method_69
+METHOD	com/mojang/minecraft/c	(F)V	a	method_70
+METHOD	com/mojang/minecraft/c	(FFFF)Ljava/nio/FloatBuffer;	a	method_71
+METHOD	com/mojang/minecraft/c	(I)V	a	method_72
+METHOD	com/mojang/minecraft/c	(Lcom/mojang/minecraft/c/d;)V	a	method_73
+METHOD	com/mojang/minecraft/c	(Ljava/lang/String;)V	a	method_74
+METHOD	com/mojang/minecraft/c	(Ljava/lang/String;I)Z	a	method_75
+METHOD	com/mojang/minecraft/c	()V	b	method_76
+METHOD	com/mojang/minecraft/c	(F)V	b	method_77
+METHOD	com/mojang/minecraft/c	(I)V	b	method_78
+METHOD	com/mojang/minecraft/c	(Ljava/lang/String;)V	b	method_79
+METHOD	com/mojang/minecraft/c	()V	c	method_80
+METHOD	com/mojang/minecraft/c	(Ljava/lang/String;)V	c	method_81
+METHOD	com/mojang/minecraft/c	()V	d	method_82
+METHOD	com/mojang/minecraft/c	()V	e	method_83
+METHOD	com/mojang/minecraft/c	()V	f	method_84
+METHOD	com/mojang/minecraft/c	()V	run	run
+CLASS	com/mojang/minecraft/c/a	com/mojang/minecraft/c/a
+FIELD	com/mojang/minecraft/c/a	Lcom/mojang/minecraft/c/d;	e	field_190
+FIELD	com/mojang/minecraft/c/a	Ljava/lang/String;	f	field_191
+FIELD	com/mojang/minecraft/c/a	I	g	field_192
+FIELD	com/mojang/minecraft/c/a	Ljava/lang/String;	h	field_193
+FIELD	com/mojang/minecraft/c/a	I	i	field_194
+CLASS	com/mojang/minecraft/c/b	com/mojang/minecraft/c/b
+FIELD	com/mojang/minecraft/c/b	I	a	field_195
+FIELD	com/mojang/minecraft/c/b	I	b	field_196
+FIELD	com/mojang/minecraft/c/b	I	c	field_197
+FIELD	com/mojang/minecraft/c/b	I	d	field_198
+FIELD	com/mojang/minecraft/c/b	Ljava/lang/String;	e	field_199
+FIELD	com/mojang/minecraft/c/b	I	f	field_200
+FIELD	com/mojang/minecraft/c/b	Z	g	field_201
+FIELD	com/mojang/minecraft/c/b	Z	h	field_202
+CLASS	com/mojang/minecraft/c/c	com/mojang/minecraft/c/c
+CLASS	com/mojang/minecraft/c/d	com/mojang/minecraft/c/d
+FIELD	com/mojang/minecraft/c/d	Lcom/mojang/minecraft/c;	a	field_203
+FIELD	com/mojang/minecraft/c/d	I	b	field_204
+FIELD	com/mojang/minecraft/c/d	I	c	field_205
+FIELD	com/mojang/minecraft/c/d	Ljava/util/List;	d	field_206
+METHOD	com/mojang/minecraft/c/d	()V	a	method_85
+METHOD	com/mojang/minecraft/c/d	(CI)V	a	method_86
+METHOD	com/mojang/minecraft/c/d	(II)V	a	method_87
+METHOD	com/mojang/minecraft/c/d	(IIIII)V	a	method_88
+METHOD	com/mojang/minecraft/c/d	(IIIIII)V	a	method_89
+METHOD	com/mojang/minecraft/c/d	(Lcom/mojang/minecraft/c/b;)V	a	method_90
+METHOD	com/mojang/minecraft/c/d	(Lcom/mojang/minecraft/c;II)V	a	method_91
+METHOD	com/mojang/minecraft/c/d	(Ljava/lang/String;III)V	a	method_92
+METHOD	com/mojang/minecraft/c/d	()V	b	method_93
+METHOD	com/mojang/minecraft/c/d	(Ljava/lang/String;III)V	b	method_94
+METHOD	com/mojang/minecraft/c/d	()V	c	method_95
+METHOD	com/mojang/minecraft/c/d	()V	d	method_96
+CLASS	com/mojang/minecraft/c/e	com/mojang/minecraft/c/e
+FIELD	com/mojang/minecraft/c/e	Ljava/lang/String;	e	field_207
+FIELD	com/mojang/minecraft/c/e	Lcom/mojang/minecraft/c/d;	f	field_208
+FIELD	com/mojang/minecraft/c/e	Z	g	field_209
+FIELD	com/mojang/minecraft/c/e	Z	h	field_210
+FIELD	com/mojang/minecraft/c/e	[Ljava/lang/String;	i	field_211
+FIELD	com/mojang/minecraft/c/e	Ljava/lang/String;	j	field_212
+METHOD	com/mojang/minecraft/c/e	(I)V	a	method_97
+METHOD	com/mojang/minecraft/c/e	([Ljava/lang/String;)V	a	method_98
+METHOD	com/mojang/minecraft/c/e	()V	run	run
+CLASS	com/mojang/minecraft/c/f	com/mojang/minecraft/c/f
+CLASS	com/mojang/minecraft/c/g	com/mojang/minecraft/c/g
+FIELD	com/mojang/minecraft/c/g	[I	a	field_213
+FIELD	com/mojang/minecraft/c/g	I	b	field_214
+METHOD	com/mojang/minecraft/c/g	(Ljava/lang/String;)I	a	method_99
+METHOD	com/mojang/minecraft/c/g	(Ljava/lang/String;III)V	a	method_100
+METHOD	com/mojang/minecraft/c/g	(Ljava/lang/String;IIIZ)V	a	method_101
+CLASS	com/mojang/minecraft/d	com/mojang/minecraft/d
+FIELD	com/mojang/minecraft/d	Ljava/lang/String;	a	field_215
+FIELD	com/mojang/minecraft/d	Ljava/lang/String;	b	field_216
+CLASS	com/mojang/minecraft/d/a	com/mojang/minecraft/d/a
+FIELD	com/mojang/minecraft/d/a	Ljava/util/List;	a	field_217
+FIELD	com/mojang/minecraft/d/a	Lcom/mojang/minecraft/b/a;	b	field_218
+METHOD	com/mojang/minecraft/d/a	(Lcom/mojang/minecraft/e;FI)V	a	method_102
+CLASS	com/mojang/minecraft/d/b	com/mojang/minecraft/d/b
+FIELD	com/mojang/minecraft/d/b	I	a	field_219
+FIELD	com/mojang/minecraft/d/b	F	b	field_220
+FIELD	com/mojang/minecraft/d/b	F	c	field_221
+FIELD	com/mojang/minecraft/d/b	F	d	field_222
+FIELD	com/mojang/minecraft/d/b	F	v	field_39
+FIELD	com/mojang/minecraft/d/b	F	w	field_40
+FIELD	com/mojang/minecraft/d/b	F	x	field_41
+FIELD	com/mojang/minecraft/d/b	I	y	field_223
+FIELD	com/mojang/minecraft/d/b	I	z	field_224
+CLASS	com/mojang/minecraft/e	com/mojang/minecraft/e
+FIELD	com/mojang/minecraft/e	[Z	a	field_225
+CLASS	com/mojang/minecraft/e/a	com/mojang/minecraft/e/a
+FIELD	com/mojang/minecraft/e/a	F	a	field_226
+FIELD	com/mojang/minecraft/e/a	F	b	field_227
+FIELD	com/mojang/minecraft/e/a	F	c	field_228
+FIELD	com/mojang/minecraft/e/a	F	d	field_229
+FIELD	com/mojang/minecraft/e/a	Lcom/mojang/minecraft/e/c;	v	field_230
+FIELD	com/mojang/minecraft/e/a	Lcom/mojang/minecraft/b/a;	w	field_231
+CLASS	com/mojang/minecraft/e/b	com/mojang/minecraft/e/b
+FIELD	com/mojang/minecraft/e/b	F	a	field_232
+FIELD	com/mojang/minecraft/e/b	F	b	field_233
+FIELD	com/mojang/minecraft/e/b	F	c	field_234
+FIELD	com/mojang/minecraft/e/b	[Lcom/mojang/minecraft/e/e;	d	field_235
+FIELD	com/mojang/minecraft/e/b	[Lcom/mojang/minecraft/e/d;	e	field_236
+FIELD	com/mojang/minecraft/e/b	I	f	field_237
+FIELD	com/mojang/minecraft/e/b	I	g	field_238
+FIELD	com/mojang/minecraft/e/b	F	h	field_239
+FIELD	com/mojang/minecraft/e/b	F	i	field_240
+FIELD	com/mojang/minecraft/e/b	F	j	field_241
+FIELD	com/mojang/minecraft/e/b	Z	k	field_242
+FIELD	com/mojang/minecraft/e/b	I	l	field_243
+METHOD	com/mojang/minecraft/e/b	()V	a	method_103
+METHOD	com/mojang/minecraft/e/b	(FFF)V	a	method_104
+METHOD	com/mojang/minecraft/e/b	(FFFIII)V	a	method_105
+CLASS	com/mojang/minecraft/e/c	com/mojang/minecraft/e/c
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	a	field_244
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	b	field_245
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	c	field_246
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	d	field_247
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	e	field_248
+FIELD	com/mojang/minecraft/e/c	Lcom/mojang/minecraft/e/b;	f	field_249
+CLASS	com/mojang/minecraft/e/d	com/mojang/minecraft/e/d
+FIELD	com/mojang/minecraft/e/d	[Lcom/mojang/minecraft/e/e;	a	field_250
+CLASS	com/mojang/minecraft/e/e	com/mojang/minecraft/e/e
+FIELD	com/mojang/minecraft/e/e	Lcom/mojang/minecraft/e/f;	a	field_251
+FIELD	com/mojang/minecraft/e/e	F	b	field_252
+FIELD	com/mojang/minecraft/e/e	F	c	field_253
+METHOD	com/mojang/minecraft/e/e	(FF)Lcom/mojang/minecraft/e/e;	a	method_106
+CLASS	com/mojang/minecraft/e/f	com/mojang/minecraft/e/f
+FIELD	com/mojang/minecraft/e/f	F	a	field_254
+FIELD	com/mojang/minecraft/e/f	F	b	field_255
+FIELD	com/mojang/minecraft/e/f	F	c	field_256
+CLASS	com/mojang/minecraft/f	com/mojang/minecraft/f
+FIELD	com/mojang/minecraft/f	I	a	field_257
+FIELD	com/mojang/minecraft/f	I	b	field_258
+FIELD	com/mojang/minecraft/f	I	c	field_259
+FIELD	com/mojang/minecraft/f	I	d	field_260
+METHOD	com/mojang/minecraft/f	(Lcom/mojang/minecraft/e;I)F	a	method_107
+CLASS	com/mojang/minecraft/f/a	com/mojang/minecraft/f/a
+FIELD	com/mojang/minecraft/f/a	F	a	field_42
+FIELD	com/mojang/minecraft/f/a	F	b	field_44
+FIELD	com/mojang/minecraft/f/a	F	c	field_46
+FIELD	com/mojang/minecraft/f/a	F	d	field_43
+FIELD	com/mojang/minecraft/f/a	F	e	field_45
+FIELD	com/mojang/minecraft/f/a	F	f	field_47
+FIELD	com/mojang/minecraft/f/a	F	g	field_261
+METHOD	com/mojang/minecraft/f/a	(FFF)Lcom/mojang/minecraft/f/a;	a	method_108
+METHOD	com/mojang/minecraft/f/a	(Lcom/mojang/minecraft/f/a;)Z	a	method_109
+METHOD	com/mojang/minecraft/f/a	(FFF)V	b	method_110
+CLASS	com/mojang/minecraft/g	com/mojang/minecraft/g
+FIELD	com/mojang/minecraft/g	Lcom/mojang/minecraft/a/f;	a	field_262
+FIELD	com/mojang/minecraft/g	F	b	field_263
+FIELD	com/mojang/minecraft/g	F	e	field_4
+FIELD	com/mojang/minecraft/g	F	f	field_7
+FIELD	com/mojang/minecraft/g	F	g	field_10
+FIELD	com/mojang/minecraft/g	F	h	field_2
+FIELD	com/mojang/minecraft/g	F	i	field_5
+FIELD	com/mojang/minecraft/g	F	j	field_8
+FIELD	com/mojang/minecraft/g	F	k	field_3
+FIELD	com/mojang/minecraft/g	F	l	field_6
+FIELD	com/mojang/minecraft/g	F	m	field_9
+FIELD	com/mojang/minecraft/g	F	n	field_264
+FIELD	com/mojang/minecraft/g	F	o	field_265
+FIELD	com/mojang/minecraft/g	Lcom/mojang/minecraft/f/a;	p	field_1
+FIELD	com/mojang/minecraft/g	Z	q	field_266
+FIELD	com/mojang/minecraft/g	Z	r	field_267
+FIELD	com/mojang/minecraft/g	Z	s	field_268
+FIELD	com/mojang/minecraft/g	F	t	field_269
+FIELD	com/mojang/minecraft/g	F	u	field_270
+METHOD	com/mojang/minecraft/g	()V	a	method_111
+METHOD	com/mojang/minecraft/g	(F)V	a	method_112
+METHOD	com/mojang/minecraft/g	(FF)V	a	method_113
+METHOD	com/mojang/minecraft/g	(FFF)V	a	method_114
+METHOD	com/mojang/minecraft/g	()V	b	method_115
+METHOD	com/mojang/minecraft/g	(FFF)Z	b	method_116
+METHOD	com/mojang/minecraft/g	()Z	c	method_117
+METHOD	com/mojang/minecraft/g	(FFF)V	c	method_118
+METHOD	com/mojang/minecraft/g	()Z	d	method_119
+METHOD	com/mojang/minecraft/g	(FFF)V	d	method_120
+METHOD	com/mojang/minecraft/g	()Z	e	method_121
+# INTERMEDIARY-COUNTER field 271
+# INTERMEDIARY-COUNTER method 122
